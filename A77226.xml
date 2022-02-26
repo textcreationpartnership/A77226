@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new and cleer discovery, of the true, and proper, natural cause, of the ebbing and flowing of the main sea. Convincingly held forth, both from Scripture and reason. So as any rational man, may easily apprehend, the proper cause on its flucnt [sic] motion: and that it is not the Moon, as some have imagined, and gone about to prove. / Written by Ellis Bradshawe of the Parish of Boulton in the County of Lancaster, Husbandman.</title>
+            <author>Bradshaw, Ellis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77226</idno>
+            <idno type="STC">Wing B4146</idno>
+            <idno type="STC">Thomason E575_34</idno>
+            <idno type="STC">ESTC R206353</idno>
+            <idno type="EEBO-CITATION">99865517</idno>
+            <idno type="PROQUEST">99865517</idno>
+            <idno type="VID">117762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117762)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E575[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new and cleer discovery, of the true, and proper, natural cause, of the ebbing and flowing of the main sea. Convincingly held forth, both from Scripture and reason. So as any rational man, may easily apprehend, the proper cause on its flucnt [sic] motion: and that it is not the Moon, as some have imagined, and gone about to prove. / Written by Ellis Bradshawe of the Parish of Boulton in the County of Lancaster, Husbandman.</title>
+                  <author>Bradshaw, Ellis.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Gartrude Dawson for Thomas brewster, at the signe of the three Bibles under Mildreds Church in the Poultry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bradshaw uses scriptural and observational evidence to state that the sea descends into "the womb of the earth".</note>
+                  <note>Annotation on Thomason copy: "Octob. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tides --  England --  Early works to 1800.</term>
+               <term>Bible and science --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117762:1" rendition="simple:additions"/>
+            <p>A NEW And cleer Diſcovery, OF THE TRVE, AND PROPER, NATVRAL CAVSE, OF THE EBBING AND FLOWING OF THE MAIN SEA.</p>
+            <p>Convincingly held forth, both from Scripture and Reaſon: So as any Rational man, may eaſily apprehend, the proper Cauſe of its fluent motion: And that it is not the <hi>Moon,</hi> as ſome have imagined, and gone about to prove.</p>
+            <p>Written by <hi>ELLIS BRADSHAWE</hi> of the Pariſh of <hi>Boulton</hi> in the County of <hi>Lancaſter,</hi> Husbandman.</p>
+            <q>
+               <bibl>PSAL. 97.4, 5.</bibl>
+               <p>His Lightnings lightned the world; the earth ſaw it and trembled.</p>
+               <p>The hils melted like wax, at the preſence of the Lord, at the preſence of the Lord of the whole earth.</p>
+               <p>All thy works praiſe thee, oh Lord, Therefore even <hi>(I)</hi> alſo will magnifie thy Name, for it is holy.</p>
+            </q>
+            <q>
+               <p>Yea, let the heavens and the earth praiſe him: the ſeas, and every thing that moveth therein.</p>
+               <bibl>Pſal. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.34.</bibl>
+            </q>
+            <p>LONDON, Printed by <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtrude Dawſon</hi> for <hi>Thomas Brewſter,</hi> at the Signe of the three Bibles under <hi>Mildreds</hi> Church in the <hi>Poultry.</hi> 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117762:2"/>
+            <pb facs="tcp:117762:2"/>
+            <head>THE Authors Apologie, in Reſpect he is but an <hi>Husband-man,</hi> and unlearned in the <hi>Tongues,</hi> to excuſe himſelfe of Preſumption herein to the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>HRISTIAN READER, If when thou haſt read theſe few lines, thou canſt ſay, as it is propheſied, <hi>Iſa.</hi> 52.15. <hi>That that which hath not been told thee thou doſt hereby ſee; and that which thou hadſt not heard, thou doſt now conſider.</hi> Let it ſtop thy mouth from ſpeaking evill of the unworthy Inſtrument, and thy heart from think<g ref="char:EOLhyphen"/>ing him too preſumpteous, for appearing in Print, and undertaking the diſcovery of ſuch truths, as neither thou, nor others, that are now living on the face of the earth, for ought thou knoweſt, have diſcovered be<g ref="char:EOLhyphen"/>fore,</p>
+            <p>Refuſe not knowledge becauſe tendered unto thee by ſo unworthy an Inſtrument; they are too ſquemiſh, that refuſe good meat, becauſe preſented in an earthen veſ<g ref="char:EOLhyphen"/>ſell, 2 <hi>Cor,</hi> 4.7. for ought thou knoweſt (it may be
+<pb facs="tcp:117762:3"/>done of purpoſe) that the excellency of power, may be of God and not of man.</p>
+            <p>And they that are taught in the word, ſhould rather communicate unto him that teacheth them in all good things, then deſpiſe and reproach him; returning evill for good, hatred for love; this is bad requitall, but not a little common now adayes: But however thou judgeſt, or requiteſt the Inſtrument, yet give God the glory of what thou learneſt; elſe thou alſo deſpiſeſt, even the fountain of knowlege, who is juſtly worthy of praiſe, and honour; yea, and will have the glory; as ſo the Inſtrument deſires, that both wholly and free<g ref="char:EOLhyphen"/>ly it might be aſcribed, for ever, Amen.</p>
+            <p>But it may be objected, that this is not the firſt, of my appearing in Print; but that I have alſo preſumed to write a Book, called, <hi>An Husbandmans Harrow to pull down the Ridges of the Presbyteriall Government, and to ſmooth a little the Independent, &amp;c.</hi> And therefore an A<g ref="char:EOLhyphen"/>pology to excuſe my preſumption, might have been therein alſo held forth to the Reader, as well as now, conſidering, that in the Title thereof, I conclude ſo pre<g ref="char:EOLhyphen"/>ſumptuouſly, as to call my arguments contained there<g ref="char:EOLhyphen"/>in, both new, and unanſwerable to that purpoſe, and ſuch as I have alſo proved to be like teeth of ſteel, that will pull down the Ridges, before they break or bend.</p>
+            <p>I anſwer, that I intended that very Title, to ſerve to excuſe me inſtead of any further Apology. For thus I thought that any rationall man might eaſily gather, to wit,</p>
+            <p>That if in my apprehenſion, I had any arguments to ſo good a purpoſe, as the reconciling of ſuch hot diſ<g ref="char:EOLhyphen"/>putes, and that betwixt Brethren: That might truly
+<pb facs="tcp:117762:3"/>and properly be called new, having never yet been pro<g ref="char:EOLhyphen"/>poſ'd by others, on either party, I thought it might well excuſe me; For who is it, but he will be content to hear, yea, and enquire of any man, be he learned, or un<g ref="char:EOLhyphen"/>learned, that can tell him (Newes) and eſpecially good (Newes) and ſuch as may be uſefull both to himſelf, and others, yea, ſuch as may poſſibly guide him into the right way, when he is at a ſtand, and knows not which way to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urne in the dark night, but may poſſibly be en<g ref="char:EOLhyphen"/>dangered to fall into ſome pit.</p>
+            <p>And if there be not ſuch Arguments contained in that Book, when any man ſheweth me that they are old, and needles, having bin formerly propoſd by ſuch, or ſuch, on either party; then I ſhall confeſſe th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t I preſumed too far: Or when any man hath anſw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red them from Scripture grounds, I ſhall alſo confeſſe that I preſu<g ref="char:EOLhyphen"/>med too far, in calling them una<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſwerable: But they are not yet anſwered, nor proved to be old, nor uſe<g ref="char:EOLhyphen"/>leſſe, and unprofitable; and therefore I, as yet, think not any worſe of them<g ref="char:punc">▪</g> then is expreſt in the Title: But it is my deſire; that ſuch who think me p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſumptu<g ref="char:EOLhyphen"/>ous, would but ſuſpend their cenſure, till they be anſwe<g ref="char:EOLhyphen"/>red by way of contradiction, from Scripture grounds, and then let them cenſure as they find cauſe. But they might doe well in the mean time, to take the Apo<g ref="char:EOLhyphen"/>ſtles advice, and judge nothing before the time: F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r if I therein erred, my errour as yet, remaineth with me, <hi>Iob</hi> 19.4. And if they know wherein, they might doe well to let me k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow mine errour, as <hi>Iob</hi> 6.24. Yea, let them teach me, I ſhall hold my tongue, and cauſe me to underſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd wherein I have erred; Yea, I ſhall alſo thank them for their juſt rebuke, I ſhall love them
+<pb facs="tcp:117762:4"/>better, then if they hold their peace, and ſmother my faults, which they plainly ſee; And however they deem, yet this is the truth; that if I had not thought thoſe Scripturall Arguments, both new, and unanſwe<g ref="char:EOLhyphen"/>rable, I had not preſumed to appear in Print: Neither doe I purpoſe, through the grace of God, to preſume to appeare any further in Print, concerning any ſubject, but wherein I am confident that I hold forth ſomething of ſpeciall uſe to ſuch a purpoſe, that no man elſe hath publiſhed in print, or held forth before, nor it may be conſidered, or thought ſo far in that reſpect, but that all that read it, may in ſomething or other, be inſtructed thereby, if they will conſider as they ought to doe, with<g ref="char:EOLhyphen"/>out prejudicate conceits.</p>
+            <p>And yet I purpoſe, (God willing) to appear in Pri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, concerning divers ſubjects, the Lord aſſiſting me, as I hope he will.</p>
+            <p>And therefore, doe but give the glory to the God of Truth, of every truth thou learneſt, though it be by never ſo weak an inſtrument, as ſo thou oughteſt to doe. And let me beare the ſhame, of what I write pre<g ref="char:EOLhyphen"/>ſumptuouſly, and without a cauſe, and ground from Scripture, as ſo I juſtly deſerve. And in the mean time, accept me, as thy loving friend, and brother in the Lord,</p>
+            <closer>
+               <signed>Ellis Bradſhaw.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117762:4"/>
+            <head>A new and clear diſcovery of the true, and proper, and natural cauſe of the ebbing and flowing of the maine Sea.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE great Lord of Heaven and Earth, that hath made all things for his own ſake, requireth praiſe, and will have glory from all his works, <hi>Pſal.</hi> 148. <hi>Yea all his works</hi> [do] <hi>praiſe him,</hi> as <hi>Pſal.</hi> 1<g ref="char:punc">▪</g> 5.10. <hi>And his Saints bleſſe him yea, they ſhall ſpeak of the glory of his Kingdom, and talk of his power, to make known to the ſonnes of men, his mighty acts, and the glo<g ref="char:EOLhyphen"/>rious Majeſty of his kingdome, verſ.</hi> 11, 12. <hi>For great is the Lord, and greatly to be praiſed, and his greatneſſe is unſearchable verſe</hi> 3. <hi>One generation</hi> ſhould <hi>praiſe his works to another, and declare his mighty acts,</hi> 4. <hi>verſ.</hi> 5, 6, 7. <hi>Yea they ſhall ſpeak of the might of his terrible acts, and I</hi> (alſo) <hi>will declare his great<g ref="char:EOLhyphen"/>neſſe, verſe</hi> 5. <hi>The Heavens declare the glory of God, and the formament ſheweth his handy work, and that day by day, from the firſt creation,</hi> as <hi>Pſal.</hi> 19.</p>
+            <p>Yea the inviſible things of God, are clearly ſeen, being <hi>conſi<g ref="char:EOLhyphen"/>dered</hi> in his works; and underſtood by the things that are made; even his eternall power and God-head; ſo that all nations are without excuſe, as <hi>Rom.</hi> 1<g ref="char:punc">▪</g> 20. And wo unto us, if we deſpiſe his name, and do not reverence, and feare that great and fear<g ref="char:EOLhyphen"/>full name, even the Lord our God.</p>
+            <p>But mark: The inviſible things of God, are clearly underſtood by the things that are made, if <hi>conſidered,</hi>
+               <note place="margin">Iſa. 44.19, 20. Ezek. 18.14. &amp; 28. Mat. 5.3. Iſa. 3.1.</note> &amp;c. But without con<g ref="char:EOLhyphen"/>ſideration how little underſtanding, or knowledge of God, and of his power, and greatneſſe, can we attain unto? Give me leave therefore, in the words, and name of the Lord Jeſus Chriſt, to invite him that readeth, that he would <hi>conſider:</hi> yea, thou whomſoever that readeſt, <hi>conſider;</hi> for if thou look at things without conſideration, thou mayſt eaſily conceive, that the Sun, or Moon, are no broader, nor bigger, then thou canſt make a Cheeſe; if thou doſt not conſider, or that thou haſt not know<g ref="char:EOLhyphen"/>ledge of their diſtance from the earth; But doſt judge by ſence,
+<pb n="2" facs="tcp:117762:5"/>and without rationall conſideration, like a rationall creature?</p>
+            <p>And ſo in like manner if thou judge by ſenſe, and haſt not tra<g ref="char:EOLhyphen"/>vaild, thou mayſt poſſibly think, unleſſe thou beleeveſt others, that the earth is little broader, then thou canſt ſee about thee, on every ſide; or thou mayſt think as many that are dull and igno<g ref="char:EOLhyphen"/>rant; that it is not round, like the compaſſe of a ball, but broad, and thin, and narrow likewiſe. And if thou doſt not conſider, thou wilt hardly beleeve, no though it be told thee, <hi>That God hath ſtretched out the North over the empty place,</hi>
+               <note place="margin">Jeb 26.7.</note> 
+               <hi>and hanged the Earth upon nothing.</hi> Thou wilt hardly beleeve; If thou doſt not conſider, that the Heavens are ſtill in conſtant motion, about the earth, and that it is looſe on every ſide, and at the ends likewiſe, like a great Ball in the midſt of the Heavens. Nor that the Earth and Waters make but one Ball, the liquid water tending as di<g ref="char:EOLhyphen"/>rectly to the center of the earth, as doth any part of the Earth it ſelf.</p>
+            <p>Let me therefore intreat thee, to conſider ſeriouſly of theſe great things: though thou never formerly, haſt thought thus far. And thou maiſt yet be capable of greater things, which thou haſt never heard, nor ſeen before; and mayſt therein diſcover the infinite greatneſſe and power of God, and ſo be brought to feare him: And <hi>the fear of the Lord is the beginning of wiſedome:</hi> And ſo thou mayſt be wiſe; yea, and wiſe for thy ſelf; yea, wiſe and happy unto all eternity. If thou wilt not <hi>[be]</hi> and <hi>[de<g ref="char:EOLhyphen"/>mean]</hi> thy ſelf, like one of thoſe fooles, <hi>that do hate knowledge,</hi> as <hi>Prov.</hi> 1.7. <hi>and that will not chuſe the feare of the Lord.</hi>
+            </p>
+            <p>For thou canſt not ſee him by going forward, backward, on the right hand, left hand, where he doth works; unleſſe thou conſider who it is that worketh, and that it is no other but his inviſible hand that worketh all, things according to the counſell of his own will. But when <hi>Job</hi> conſidered, <hi>he was troubled at his preſence,</hi> yea, when he conſidered, <hi>he was afraid of him, Job</hi> 23 3, 8, 9, 13, 14, 15.</p>
+            <p>Conſider therefore, with awfull reſpects to the great Lord, both of Heaven and Earth; and thou ſhalt underſtand;</p>
+            <p>That the Earth and Waters, the Sea and dry Land, are ſtill a<g ref="char:EOLhyphen"/>like, in equall, conſtant, and continuall motion, from the very be<g ref="char:EOLhyphen"/>ginning till this preſent day: yea, ſince he gathered the wa<g ref="char:EOLhyphen"/>ters into one place, and let the dry land appear; the ſawe ſtill
+<pb n="3" facs="tcp:117762:5"/>kept, an equall, conſtant, and continuall motion; ſave only that time whilſt <hi>Noahs</hi> Flood was upon the earth.</p>
+            <p>But it will be demanded, what I mean by this, <hi>that they have kept motion.</hi>
+            </p>
+            <p>
+               <hi>I anſwer briefly;</hi> That as the Sea riſeth and accordingly flow<g ref="char:EOLhyphen"/>eth, aſcending higher from the center of the earth; and that at every ſhort, where it is not ſtreightned, as ſo it doth twiſe in 24. hours, and that in all places throughout the world, as the Sea<g ref="char:EOLhyphen"/>men know.</p>
+            <p>Even ſo accordingly, and at the ſame time, doth the Earth de<g ref="char:EOLhyphen"/>ſcend, and as it were cloſe it ſelf, or ſink downwards, ſo much nearer to the middle, or center of the Earth, as the Sea ariſeth, or aſcendeth from it, directly upwards on every ſide. So that as the Sea ebbs, the Earth aſcends, and as the Earth deſcends the Sea flowes, or riſeth higher, and that at every ſhore.</p>
+            <p>For as the Earth cloſeth all the parts of it towards the center, it preſſeth forth the liquid waters from the Bowels of the Earth; and as the Earth riſeth, or aſcendeth again, it openeth place, in the Bo<g ref="char:EOLhyphen"/>wels of the Earth, for deſcenſion of the Sea, that it may fall, or ebb, or deſcend lower at every ſhore, as we may daily ſee that it con<g ref="char:EOLhyphen"/>ſtantly doth in all the world, where the main Sea commeth, and as the Marriners know.</p>
+            <p>Queſt. <hi>But it will be demanded how it can be known, that it doth thus move, and that it is not a fiction, or device of mans brain, but a reall truth, clearly demonſtrated from Scripture and Reaſon.</hi>
+            </p>
+            <p>
+               <hi>Anſw. I anſwer breifly;</hi> That I only learned, and underſtood this ſecret, through conſideration of certain places, and teſtimo<g ref="char:EOLhyphen"/>nies of ſacred Sciptures, which in my apprehenſion are clear grounds, being compared together, to aſſure the truth of this great ſecret, which hath long been hid from the wiſe and learned. Which ſacred teſtimonies are briefly theſe. It is written <hi>Pſal.</hi> 104. ſpeaking of God, <hi>who layeth the beams of his chambers in the waters. That he laid the foundations of the earth that it ſhould not be removed for ever. And that he covered it with the deep, as with a garment, the waters</hi> (ſaith he) <hi>ſtood above the mountains,</hi> to wit, <hi>in the beginning,</hi> as <hi>Gen.</hi> 1.9. <hi>and at</hi> Noahs <hi>flood,</hi> as <hi>Gen.</hi> 7.20. <hi>Pſal.</hi> 104.6. and <hi>Job</hi> 38.8.10, 11.</p>
+            <pb n="4" facs="tcp:117762:6"/>
+            <p>And again, <hi>At thy rebuke they fled,</hi> (meaning the waters) <hi>at the voice of thy thunder they haſted away: They go up by the Mountains, they go down by the Vallies, to the place which thou haſt founded for them: Thou haſt ſet a bound which they ſhall not paſſe over; that they turn not again to cover the earth,</hi> as <hi>verſ.</hi> 6, 7, 8, 9. Which words of Scripture in the old tranſlation are ſomething different, but far more plain to my apprehenſion, and more ſutable to the Scriptures, to which they relate; for they are after this manner; to wit, beginning at <hi>verſ.</hi> 6. ſaith he, <hi>Thou coucredſt it with the deep as with a garment; the water, would ſtand above the Mountains: But at thy rebuke they fly, at the voyce of thy thunder they haſte away: And the Moun<g ref="char:EOLhyphen"/>tains aſcend, and the Vallies deſcend to the place which thou haſt appointed for them.</hi> From which it plainly appears in my ap<g ref="char:EOLhyphen"/>prehenſion; and hence I firſt concluded.</p>
+            <p>That the waters naturally, as at the firſt Creation, <hi>Gen.</hi> 1.2.9. would ſtand above the mountaines, as they did alſo, at <hi>Noahs</hi> Floud; for they being lighter, and more ſoft and liquid, than the maſſie earth, cannot tend ſo ſtrongly, nor preſſe ſo heavily to<g ref="char:EOLhyphen"/>wards the Center, or middle of the earth, as the earth it ſelfe, towards which Center, all heavy ſubſtances below the Moon, doe naturally tend, by the ordinance of God, whoſe eſſentiall word directeth all things to their proper places, according to his will, which cauſed their ſubſiſtence: For, elſe with God, there is no way upward, nor any way downward, any more than other, but onely in regard of their proper tendency, at his appointment; for all the Planets, are as ſolid materials, as either the earth, or wa<g ref="char:EOLhyphen"/>ters, and yet are moved about in a circular motion, yet comming no neerer to the Center of the Earth at the laſt, then at firſt,</p>
+            <p>So that the Earth naturally, being of an heavier nature, than the liquid Sea, doth tend more ſtrongly to the Center thereof, and would preſſe forth all the liquid waters, from the womb, or bowels, or center thereof, which is the proper place broken up for it, as theſe Scriptures ſhew, and will make to appeare, <hi>Job</hi> 38.10.8. &amp; <hi>Pſal.</hi> 24.1, 2. <hi>For who</hi> (ſaith the Lord) <hi>hath ſhut up the Sea with doores? when it brake forth as if it had iſſu<g ref="char:EOLhyphen"/>ed out of the womb,</hi> as (it did at <hi>Noahs</hi> Floud) <hi>And</hi> (ſaith he) <hi>when I brake up for it my decreed place, and ſet barres and doores, and ſaid, hitherto ſhalt thou come, but no further, and here
+<pb n="5" facs="tcp:117762:6"/>ſhall thy proud waves be ſtaid,</hi> as <hi>verſe</hi> 10, 11. &amp; <hi>Chap.</hi> 26.10. So alſo <hi>Prov.</hi> 8.28, 29.</p>
+            <p>From whence it appeares, that the womb of the earth, is the decreed place, broken up for it at the firſt Creation, when God ſaid, <hi>Let the waters under the Heavens be gathered together in<g ref="char:EOLhyphen"/>to one place, and let the dry land appeare; and it was ſo,</hi> Gen. 1.9. <hi>And when all the Fountaines of the great deep were broken up,</hi> to wit, at <hi>Noahs</hi> Floud, <hi>and that the Sea brake forth, as if it had iſſued out of the womb,</hi> as <hi>Job</hi> 38.8. <hi>Gen.</hi> 7.11.</p>
+            <p>For when the waters abated from off the Earth, it is ſaid, <hi>That the Fountaines of the great deep, were ſtopped; and, that the wa<g ref="char:EOLhyphen"/>ters returned from off the earth continually,</hi> as <hi>Gen.</hi> 8.2, 3. <hi>They returned to the place, yea, even the decreed place, which the Lord in the beginning had appontied for them,</hi> as <hi>Pſal.</hi> 104.8.</p>
+            <p>
+               <hi>Conſ.</hi> Therefore it followes, that the womb of the earth, being the decreed place, broken up for it, out of which it iſſued, when it overflowed, and into which it returned, when it ebbed, or a<g ref="char:EOLhyphen"/>bated.</p>
+            <p>That it doth ſo now, even in like manner, ſo farre forth as it ebs and flowes, I ſay, it iſſueth forth from the womb of the earth, when it flowes, or riſeth at every ſhore; And it returnes againe into the womb of the earth, when it abateth, or ebs, or falleth againe at every ſhore; <hi>For he hath founded the earth upon the waters,</hi> ſee <hi>Pſal,</hi> 24.1, 2. And for clearer ſatisfaction, that this is ſo, conſider this text, <hi>Pſal.</hi> 104.8. where the Pſalmiſt ſpeak<g ref="char:EOLhyphen"/>eth in the preſent tenſe, ſaying, <hi>And the mountaines aſcend, and the valleyes deſcend, to the place which thou haſt appointed for them.</hi>
+            </p>
+            <p>Which to my apprehenſion, is as much fully, as if he ſhould have ſaid;</p>
+            <p>The Earth riſeth, and the Sea falls, or goeth down by the val<g ref="char:EOLhyphen"/>leys, to the place which he hath appointed for them; yea, they doe thus continually, for ſo it is ſpoken in the preſent tenſe: And that though they thus doe, he hath ſet them a bound, which they ſhall not paſſe, <hi>For they ſhall not returne to cover the earth; verſ.</hi> 9. For though by their owne nature, they would flow, and aſcend, till they covered the tops of the higheſt mountanes, as <hi>verſ.</hi> 6. &amp; <hi>Gen.</hi> 1.2 9. yet when they come to the height which God hath appointed, the Earth riſeth, and aſcendeth upward, e<g ref="char:EOLhyphen"/>very
+<pb n="6" facs="tcp:117762:7"/>part of it, from the Center thereof, or from the womb there<g ref="char:EOLhyphen"/>of, and ſo enlargeth again the womb of the Earth, and the valleys, or channels of the main Ocean, for receiving of the waters till they be abated, and fallen ſo farre as they uſe to ebbe, as God hath appointed: And then the earth falling, or ſinking downe<g ref="char:EOLhyphen"/>wards, doth againe ſtreighten the womb of the Earth, and the valleys alſo, and channels of the Sea, preſſing forth the waters to their height againe, from the ſprings, or fountaines of the great deep, to every ſide, or ſhore, as <hi>Job</hi> 38.16. &amp; <hi>Gen</hi> 7.11. by an equall motion of the earth, and waters, as hath been ſaid be<g ref="char:EOLhyphen"/>fore; for being preſſed forth by the weight of the Earth, when it quietly deſcends, the water ſpringeth forth in ſome places, as the Mariners know, that the Sea boyleth up like a hill of water, falling downe from it like a running Tide; and that every way from ſuch ſpringing place, that they can ſcarce ſaile directly o<g ref="char:EOLhyphen"/>ver it, till they come to the midſt of ſuch ſpring, or fountain, though they have a ſtrong, and a direct wind; But when they come to the middle, then they can ſaile ſo much the more ſwifdy, as both with wind, and tide, whiles the Sea is flowing, till it ebbe againe. And thus it is found in the very middle of the main Sea, in many places; and theſe are called in Scripture Language, the Springs of the Sea, as <hi>Job</hi> 38.16. And it is therefore ſaid of God, that by his wiſedome, the depths are broken up, <hi>Prov.</hi> 3.20. And he is alſo ſaid to have ſtrengthened the Fountaines of the deep, <hi>Prov.</hi> 8.28.</p>
+            <p>And againe, <hi>Pſal.</hi> 24.1, 2. it is clearely aſſerted, <hi>That the Earth is the Lords, and the fulneſſe thereof, the World, and them that dwell, therein;</hi> and the reaſon is rendred to prove it ſo, for (ſaith he) <hi>He hath founded it upon the Seas, and eſtabliſted it up<g ref="char:EOLhyphen"/>on the Flouds.</hi>
+            </p>
+            <p>From whence it plainely appeares, that the Earth is ſituate, founded, and eſtabliſhed, even upon the Seas, and upon the Flouds, as if all the parts or peices of the earth, did but natu<g ref="char:EOLhyphen"/>rally ſwim, or float on the waters, like ſo many ſhips, founded, or ſituate, or lying thereupon.</p>
+            <p>For it is without all controverſie, that the earth never cloſeth, or ſo farre ſtreightneth the womb, or bowels, or clefts thereof, as to preſſe forth all thoſe liquid waters of the main Ocean, for then, as hath been ſaid, <hi>The waters would ſtand above the moun<g ref="char:EOLhyphen"/>taines,</hi>
+               <pb n="7" facs="tcp:117762:7"/>as <hi>Pſali</hi> 104.6. as they did at firſt, till their decreed place was broken up for them, as <hi>Gen.</hi> 1.2.9.</p>
+            <p>But when the parts of the earth are ſo farre deſcended, as to preſſe down the waters, to the bounds decreed, which they muſt not paſſe, nor return again to cover the earth.</p>
+            <p>Then, as hath bin ſaid, by the power of God, the parts of the earth do again aſcend, and ſo the Sea is withdrawn, and falleth down<g ref="char:EOLhyphen"/>wards, returning againe to its decreed place, in a conſtant, equall, continued motion, from the very beginning; as no man (I hope) that once apprehendeth theſe conſiderations, but will confeſſe, that it is moſt likely to be ordered, and moved after this manner, and no wayes elſe, eſpecially conſidering theſe Scripture grounds.</p>
+            <p>And thus much briefly for Scripture grounds, which are fully ſatisfactory to any rationall man, that this is the manner, and way, and motion, both of the Earth, and Sea, equally moving by the power of God, by the word of his power, to wit, his eſſential word. as <hi>Heb.</hi> 1.3.</p>
+            <p>But for fuller ſatisfaction, conſider alſo theſe reaſons following, to prove that it muſt needs be thus, and cannot poſſibly be o<g ref="char:EOLhyphen"/>therwiſe, unleſſe God ſhould excerciſe his miraculous, and crea<g ref="char:EOLhyphen"/>ting power from the very beginning, which that he doth not, as <hi>Gen.</hi> 2 2. <hi>For he reſted the ſeventh day.</hi>
+            </p>
+            <p n="1">1 <hi>Reaſon.</hi> For whither elſe can ſo mighty a bulk, or meaſure of water, as doth increaſe or raiſe the whole Sea to ſuch a height of plumb directly upwards, as 6 or 7 yards, and that at every main ſhore, at the ſame time, and that alſo ſo vaſt a breadth, as all the Sea is, round about the Earth, ſo largely circumventing it, as is well known, if it ſhould not thus do.</p>
+            <p>
+               <hi>Reaſ.</hi> For if the Earth ſhould not riſe directly upwards<g ref="char:punc">▪</g> by the force and vertue of his eſſentiall word, that upholdeth all things.</p>
+            <p>
+               <hi>Q.</hi> Where could the Sea find place of ſubſiſtence for ſo much of it, as muſt neceſſarily ſubſiſt in one place or other, elſe it could not ſlow ſo ſoone after to ſuch height againe, without a new cre<g ref="char:EOLhyphen"/>tion of more waters ſo to fill it with.</p>
+            <p>
+               <hi>Aſſum.</hi> But God doth not create, and diſſolve againe, the wa<g ref="char:EOLhyphen"/>ters of the Sea from the firſt beginning, twice every day, as it ebs and flowes, as <hi>Gen.</hi> 2.2.3.</p>
+            <p>
+               <hi>Conſeq.</hi> Therefore it followes, that the earth riſeth directly upwards when the Sea ebs, as hath been ſaid.</p>
+            <pb n="8" facs="tcp:117762:8"/>
+            <p n="2">2. <hi>Reaſon,</hi> And again, ſeeing it is manifeſt as hath been pro<g ref="char:EOLhyphen"/>ved, that the womb of the earth, is that decreed place, broken up for it to deſcend into, when it firſt was gathered into one place, to let the dry land appear; and not by diſſolving, or dry<g ref="char:EOLhyphen"/>ing up, or conſumption of the water, as <hi>Gen.</hi> 2.2, 3.</p>
+            <p>It is moſt likely that the ſame way is held on ſtill; for the ordinary ebbing, and withdrawing of the Sea; as hath been ſaid before.</p>
+            <p n="3">3. And if it ſhould not be ſo, that the Earth aſcends, to in<g ref="char:EOLhyphen"/>large both the womb, and the channels of the Sea, to let it in; and alſo cloſeth again, to preſſe it forth.</p>
+            <p>Then it would neceſſarily follow, that when the Sea flowes it ſhould leave the womb of the earth empty, either of aire, or water; which cannot be, for no place can be empried, of any <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind of ſubſtance, but it is preſertly filled with aire again: But if, it ſhould be filled either with aire, or fire; it would keep out the liquid water, for deſcending any more. And there would al<g ref="char:EOLhyphen"/>wayes be contention betwixt the aire and water, ſo that it could not aſcend, nor deſcend neither, ſo quietly as it doth.</p>
+            <p>Object. <hi>If it be objected that there may be a vent-hole, on ſome ſide the earth, for the air to paſſe in and out through it.</hi>
+            </p>
+            <p>
+               <hi>Anſw. I anſwer,</hi> That there is no ſuch place that was ever found: and it muſt needs be a large one, if there ſhould be any ſuch; that muſt let in and out, twice over in 24. hours, ſo much meaſure of aire, as to ebb and flow the main Sea, 6, or 7. yards of direct plumb over all the Sea.</p>
+            <p>Therefore theſe conceits would prove ridiculous, and they are altogether without ground, or reaſon, from any Scripture teſti<g ref="char:EOLhyphen"/>mony.</p>
+            <p>But it will be objected, <hi>That</hi> Ariſtotle <hi>and others were of opinion, that the Moon was <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cauſe of its ebbing and flowing; who darting her beams into the Sea, cauſed it to ſwell; and when the Moon was abſent, and under the Earth, it abated a<g ref="char:EOLhyphen"/>gain.</hi>
+            </p>
+            <p>
+               <hi>To which I anſwer,</hi> That the Moon hath no beams of any ſuch heat, as to ſwell the Sea: neither is the Sea hotter, or coul<g ref="char:EOLhyphen"/>der, for the abſence, or preſence of the Moon over it. And be<g ref="char:EOLhyphen"/>ſides, it is manifeſt, that it both ebbs and flowes, whilſt the Moon is above the earth; which ſhewes plainly, that though the
+<pb n="9" facs="tcp:117762:8"/>Moon be appointed for certain ſeaſons, and be ſet for ſignes and for ſeaſons, of ſuch things, it increaſing and waning, as the Sea doth; and is very needfull to be obſerved in many things which God hath appointed it, to direct us in; both for know<g ref="char:EOLhyphen"/>ing the time of the ebbing and flowing of the main Sea; and for the felling of timber; and many ſuch things, of which it is a ſigne; yet for all that, it were rediculous to affirm, or account it, (any cauſe at all) either of the Sea its ebbing, or its flowing a<g ref="char:EOLhyphen"/>gain; or of any ſuch things; of which it may be obſerved as ſignes thereof: Neither was it appointed as any cauſe at all.</p>
+            <p>For God ſaid. <hi>Let there be lights in the firmament of the Heaven, to divide the day from the night, and let them be for ſignes, and for ſeaſons, and for dayes, and years; and let them bee for lights in the firmament of the heaven, to give light upon the earth; and it was ſo,</hi> Gen. 1.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 15.</p>
+            <p>But he never ſet them, for cauſes of its ebbing, or flowing either.</p>
+            <p>Neither is there any cauſe, that is able to do it, but the eſſen<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll word, of the power of God, by which it was created, and by which it is upheld, as it is ſaid of him, <hi>Hebr.</hi> 1.2, 3 <hi>That he by whom alſo God made the worlds; who is the brightneſſe of his glo<g ref="char:EOLhyphen"/>rie, and the expreſſe Image of his perſon; upholding all things by the word of his power,</hi> as <hi>Hebr.</hi> 1. throughout.</p>
+            <p>For only he who is Omnipotent, yea whoſe pure eſſence, is both in, and through, and in every part, both of the earth and waters; is able to uphold, and to keep in motion, in ſo conſtant a manner, from the firſt creation, both the earth and Sea; as he doth alſo all the 7. Planets, and the ſtarry Firmament, with ſuch unſpeakable ſwiftneſſe, as we dayly ſee; and as I purpoſe (God willing) to make appeare when time ſhall ſerve, to as many as pleaſe to read, and conſider what I purpoſe to write to all rationall crea<g ref="char:EOLhyphen"/>tures that would know his power, as I purpoſe in the next.</p>
+            <p>But how eaſie it is, for the great Lord, both of heaven and earth, who is an infinite Spirit, filling both all place, and every ſub<g ref="char:EOLhyphen"/>ſtance; from the top, or height, of the higheſt heavens, to the very bowels, or centre of the earth: yea, and infinitely beyond theſe, circumventing heavens on every ſide; and who carrieth about, both the Starry Firmament, and all the Planets, in ſuch a ſteadfaſt, conſtant, unwearied manner, ſuch a vaſte and incredible
+<pb n="10" facs="tcp:117762:9"/>circumference, in ſo ſhort a time, as the <hi>Mathematicks</hi> know, and that from the firſt Creation, yea, cauſing the morning to know his place. It may eaſily be beleeved, that he can eaſily cauſe the conſtant motion, both of the earth and waters, as hath been ſaid, being in, and through them, yea, in every duſt of the earth, and every drop of water, as we muſt needs acknowledge, if we beleeve the Scriptures, <hi>Pſal.</hi> 139. and 2 <hi>Chron.</hi> 6.18. <hi>Job</hi> 26.5, 6.</p>
+            <p>
+               <hi>Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther ſhall I go,</hi> ſaith <hi>David, from thy ſpirit, or whither ſhall I fly from thy preſence, &amp;c.</hi> Implying, that there is no place, nor any ſubſtance, in which he is not preſent by his All-ſeeing Spirit: And as the Motion of the Heavens, and of all the Planets doe manifeſtly ſhew, that he is in, and through, and in every part of <hi>[them.]</hi> Even ſo the Motion of the Sea, and of the maſſie Earth, as hath been ſaid, do as manifeſtly declare, that his All-ſeeing Spirit, is alſo in, and through, and in every part, both of the earth and waters, as I could, largely ſhew. But ſuch as beleeve the Scriptures, will not deny it to be true; though I much doubt, that for want of conſideration, it is not ſetled in their hearts, as it ought to be.</p>
+            <p>To make them reverence, and feare that great and fearfull Name, even the Lord our God, as they ought to do; the Lord our God being a conſuming fire, being able in a moment even to conſume all things, that he hath created, as he threatned to con<g ref="char:EOLhyphen"/>ſume the <hi>Iſraelites,</hi> (as in a moment.) And would have done it, had not <hi>Moſes</hi> ſtood in the breach.</p>
+            <p>But I muſt not inlarge my ſelf any further in this particular, but to two Printed ſheets; therefore I only ſay to ſuch who know theſe things, and that confidently bleeve them; ſettle theſe things in your hearts, and your hearts ſhall be ſetled againſt Atheiſme; for you ſhall thereby be convinced, not only that there is a God, but that his eternall power and God-head, is in, and through, and in every part, not onely of the Earth and Sea, but of all his works, that the Lord God hath created and made; I mean, he is in them, in reſpect of his Eſſence, which is unlimitable; Though in reſpect of the operation or manifeſtation of himſelf; It is truly ſaid of ſome men, that they are (even) <hi>ſenſual, having not the Spirit,</hi> Jude 19.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 19. 1649.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>JOHN DOVVNAME.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
